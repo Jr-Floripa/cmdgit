@@ -18,3 +18,8 @@ Este repositório traz um resumo dos principais comandos do git, mas também doc
 |touch   | utilizado para criar **documentos e arquivos**
 |status  | mostra o estado do diretório e seus arquivos
 |log     | visualizar commits e alterações 
+|restore | restaurar um arquivo 
+|clear   | limpar a tela do terminal
+|reset   | ``soft`` elimina o commit e deixa os arquivos na área de preparação
+           ``medium`` elimina o commit e retira os arquivos da área de preparação
+           ``hard`` elimina o commit e os arquivos
